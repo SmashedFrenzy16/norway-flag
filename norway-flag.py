@@ -4,7 +4,6 @@ speed(2)
 setup(800,500)
 bgcolor("red")
 
-#White Cross
 up()
 goto(-400,-50)
 down()
@@ -18,7 +17,8 @@ left(90)
 forward(800)
 end_fill()
 
-#Move to next position
+
+
 up()
 goto(-100,-250)
 down()
@@ -31,7 +31,7 @@ right(90)
 forward(100)
 end_fill()
 
-#Blue Cross
+
 up()
 goto(-400,-25)
 down()
@@ -45,7 +45,7 @@ left(90)
 forward(800)
 end_fill()
 
-#New position 2
+
 up()
 goto(-125,-250)
 down()
